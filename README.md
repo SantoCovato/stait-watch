@@ -30,3 +30,10 @@ Complementing the smartwatch, I developed a mobile app called Stait Watch Link u
 - Create an extended Weather screen to display the 7-day forecast.
 
 - Optimize battery consumption to achieve at least one full day of autonomy.
+
+## 📸 Media
+
+![Assembled Watch](images/assembled_watch.jpg) 
+
+![Components](images/components.jpg)
+
